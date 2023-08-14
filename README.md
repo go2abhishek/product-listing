@@ -3,3 +3,9 @@ This is a react assignment with static product list display with basic filtering
 
 # References
 https://react.dev/learn/thinking-in-react
+
+# Steps to run
+```
+npm install
+npm start
+``` 
